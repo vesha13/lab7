@@ -8,4 +8,4 @@ spec:
     app: nginx
   ports:
   - protocol: TCP
-    port: 82
+    port: 80
